@@ -19,5 +19,6 @@ public class CarManager {
         System.out.println(yamaha);
         System.out.println(suzuki);
 
+
     }
 }
